@@ -10,7 +10,7 @@ body {
   }
   
   .btn {
-    background: #0070f3;
+    background: lavenderblush;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -18,6 +18,6 @@ body {
   }
   
   .btn:hover {
-    background: #005bb5;
+    background: plum;
   }
   
