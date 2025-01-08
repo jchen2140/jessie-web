@@ -1,3 +1,5 @@
+import Navbar from '../components/Navbar';
+
 export default function Experiences() {
     const experiences = [
       {
@@ -21,6 +23,8 @@ export default function Experiences() {
     ];
   
     return (
+    <>
+      <Navbar />
       <main>
         <h1>Experiences</h1>
         <ul>
@@ -34,6 +38,7 @@ export default function Experiences() {
           ))}
         </ul>
       </main>
+      </>
     );
   }
   
