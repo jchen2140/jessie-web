@@ -59,7 +59,7 @@ const styles = {
     padding: '15px 20px',
     backgroundColor: '#8E4585', // Plum background color
     color: 'white',
-    fontFamily: 'Roboto, sans-serif', // Roboto font
+    fontFamily: 'Courier, monospace', // typewriter-like font lol
     boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)', // Soft shadow for a professional look
     position: 'sticky',
     top: 0,
