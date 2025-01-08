@@ -38,9 +38,5 @@ body {
   button.nightModeButton:hover {
     background-color: #333;  /* Darker background color on hover */
   }
-  
-  /* Optional: Customize other elements for night mode */
-  h1, h2, h3, p {
-    color: inherit; /* Ensures text color matches the current mode */
-  }
+
   
