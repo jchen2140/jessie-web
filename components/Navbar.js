@@ -36,6 +36,7 @@ export default function Navbar() {
       <div style={styles.brand}>
         <h6>Welcome to My Little Corner of the Web</h6>
       </div>
+      <div class="logo">JC</div>
       <ul style={styles.navLinks}>
         <li style={styles.navItem}><Link href="/">Home</Link></li>
         <li style={styles.navItem}><Link href="/projects">Projects</Link></li>
