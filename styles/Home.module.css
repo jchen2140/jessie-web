@@ -107,7 +107,7 @@
 
   /* For light and dark modes */
   
-  body {
+  .body {
     background-color: white;
     color: black;
   }
